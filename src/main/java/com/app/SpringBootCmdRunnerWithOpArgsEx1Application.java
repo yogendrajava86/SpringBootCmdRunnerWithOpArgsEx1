@@ -10,5 +10,4 @@ public class SpringBootCmdRunnerWithOpArgsEx1Application {
 		SpringApplication.run(SpringBootCmdRunnerWithOpArgsEx1Application.class, args);
 	}
 	
-
 }
